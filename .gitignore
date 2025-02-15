@@ -1,4 +1,10 @@
 .presentations
 mnt
 test 
+.ipynb_checkpoints
+.ipython
+.jupyter
+.local
+.npm
+
 tmp*
